@@ -1,0 +1,7 @@
+{
+    "baseUrl": "https://infinite-savannah-93746.herokuapp.com",
+    "$schema": "https://on.cypress.io/cypress.schema.json",
+    "chromeWebSecurity": false,
+    "viewportWidth": 1024,
+    "viewportHeight": 768
+}

@@ -1,0 +1,28 @@
+{
+  "hits": [
+    {
+      "title": "Cypress: Fast, easy, and reliable testing",
+      "url": "https://www.cypress.io/",
+      "author": "OJFord",
+      "num_comments": 178,
+      "points": 316,
+      "objectID": 0
+    },
+    {
+      "title": "Visual Unit Tests with Cypress",
+      "url": "https://medium.com/razroo/visual-unit-tests-with-cypress-6f310095e10b",
+      "author": "Squidrings",
+      "num_comments": 61,
+      "points": 79,
+      "objectID": 1
+    },
+    {
+      "title": "Testing with Cypress – Initial Setup",
+      "url": "https://medium.com/@kristijan.pajtasev/cypress-initial-setup-7d83a3f52b11",
+      "author": "Chriss_19",
+      "num_comments": 75,
+      "points": 98,
+      "objectID": 2
+    }
+  ]
+}
